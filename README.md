@@ -1,3 +1,4 @@
+a small tweak
 # Learn DSPy in VS Code
 
 Start with **[dspy_fundamentals.ipynb](dspy_fundamentals.ipynb)**. The core lesson takes about **90 minutes**; optional optimization and experimentation bring it to **2–3 hours**.
